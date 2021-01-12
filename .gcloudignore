@@ -16,7 +16,6 @@ mvnw
 mvnw.cmd
 README.md
 
-node_modules/
 target/
 .idea/
 .mvn/
